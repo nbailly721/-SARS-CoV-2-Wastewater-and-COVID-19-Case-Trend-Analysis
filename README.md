@@ -53,11 +53,13 @@ dplyr (data wrangling)
 
 ##📊 Key Results
 
-Line plots of SARS-CoV-2 wastewater concentrations over time in both daily (GTA) and weekly (Toronto) formats.
+-Daily wastewater sars concentration in gta.png
 
-Line plot of weekly COVID-19 case rates in Toronto.
+-Normalized Weekly Trends- COVID-19 Cases vs. Wastewater SARS-CoV-2 in Toronto (2024).png
 
-Combined normalized trend graph comparing COVID-19 case rates and wastewater viral load in 2024.
+-Weekly Average Wastewater SARS-CoV-2 Concentration in Toronto (2024).png
+
+-Weekly Reported COVID-19 Cases in Toronto (2024).png
 
 ##📂 Files
 

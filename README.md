@@ -39,13 +39,13 @@ Plot both metrics on the same graph to explore temporal associations.
 **Datasets Used**
 
 cases.xlsx – Weekly COVID-19 case counts in Toronto
-Source:https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Respiratory-Virus-Tool
+Source: https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Respiratory-Virus-Tool
 
 surveillance.xlsx – Daily SARS-CoV-2 wastewater concentrations for GTA
-Source:https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/COVID-19-Data-Surveillance/Wastewater
+Source: https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/COVID-19-Data-Surveillance/Wastewater
 
 aggregate.csv – Weekly aggregated wastewater concentrations across Ontario
-Source:https://health-infobase.canada.ca/wastewater/
+Source: https://health-infobase.canada.ca/wastewater/
 
 **Packages Used**
 
